@@ -1,0 +1,110 @@
+ body{ 
+
+    color: rgb(8, 8, 8);
+     margin: 0; 
+     text-align: center;
+     
+   
+     
+  } 
+  .top-container{
+    background-color: aliceblue;
+    text-align:center ;
+   
+  
+
+  }
+  .img-logo{
+    float: left;
+  }
+
+
+ .wb-color {
+    background-color: aliceblue;
+   margin-top: 0px;
+   margin-bottom: 16px;
+   font-family: 'Sacramento', cursive;
+  }
+ /* body{
+    background-image: url();
+    text-align: center;
+     font-family: 'Sacramento', cursive;
+   } */
+
+h1{
+    /* line-height: 4; */
+ 
+    background-color: rgba(5, 5, 4, 0.016);
+   
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+   
+
+}
+.skill-row{
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+
+    
+}
+
+
+.p1{
+    padding-top: 0;
+    color: rgb(0, 0, 0);
+    font-size: 50px; 
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+    
+}
+.img-1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.img-2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.ayesha{
+    clear: left;
+}
+.bottom-container{
+    background-color: rgb(82, 44, 44);
+}
+.contact-me{
+    background-color:rgb(82, 44, 44) ;
+}
+/* .sadia{
+    clear:right
+} */
+ /*.top-container{
+    background-color: rgb(85, 104, 105);
+    height: 200px;
+    width: 200px;
+    border: solid 10px;
+
+}
+.middle-container{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: solid 20px;
+    margin-left: 214px;
+}
+.bottom-container{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border: solid 10px;
+    margin-left: 450px; */
+/*}
+  span{
+    background-color: blueviolet;
+    display: block;
+ }  */
